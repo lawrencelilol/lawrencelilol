@@ -6,11 +6,14 @@
 - 📫 How to reach me: tiantonl@andrew.cmu.edu
 - ⚡ Fun fact: I am a Fun Guy!
 
-<a href="https://github.com/lawrencelilol/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lawrencelilol&repo=github-readme-stats" />
+
+### Welcome to my GitHub profile!
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrencelilol" />
 </a>
-<a href="https://github.com/lawrencelilol/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lawrencelilol&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencelilol&layout=compact" />
 </a>
 
 

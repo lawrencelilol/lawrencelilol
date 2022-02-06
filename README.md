@@ -10,10 +10,10 @@
 ### Welcome to my GitHub profile!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrencelilol" style="width:45%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrencelilol" style="width:42%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencelilol&layout=compact"style="width:45%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencelilol&layout=compact"/>
 </a>
 
 

@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Food and Basketball
 - 📫 How to reach me: tiantonl@andrew.cmu.edu
-- ⚡ Fun fact: I am a Fun Guy
+- ⚡ Fun fact: I am a Fun Guy!
 
 
 ### Welcome to my GitHub profile!
@@ -15,5 +15,6 @@
 ### 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lawrencelilol&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 

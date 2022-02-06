@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile!
 
 
-[![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencelilol)](https://github.com/lawrencelilol/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencelilol&langs_count=8)](https://github.com/lawrencelilol/github-readme-stats)
+[![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencelilol)](https://github.com/lawrencelilol/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencelilol&langs_count=6)](https://github.com/lawrencelilol/github-readme-stats)
 
 
 

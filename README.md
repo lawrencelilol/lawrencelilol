@@ -1,11 +1,10 @@
 ## Hi there 👋 I am Lawrence!
 
 - 🔭 I’m currently working on Blind
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Web Application Development
 - 💬 Ask me about Food and Basketball
 - 📫 How to reach me: tiantonl@andrew.cmu.edu
-- ⚡ Fun fact: I am a Fun Guy!
-
+- 🍷 Recent Habbit: Exploring Wine!
 
 ### Welcome to my GitHub profile!
 

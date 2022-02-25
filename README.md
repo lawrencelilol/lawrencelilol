@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Lawrence!
 
 - 🔭 I’m currently working on Blind
-- 🌱 I’m currently learning Web Application Development
-- 💬 Ask me about Food and Basketball
+- 🌱 I’m currently interested in Web Application Development
+- 💬 Ask me about NBA and College Basketball
 - 📫 How to reach me: tiantonl@andrew.cmu.edu
 - 🍷 Recent Habbit: Exploring Wine!
 

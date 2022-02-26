@@ -1,4 +1,4 @@
-## Hi there 👋 I am Lawrence!
+## Hi there 👋 I am Lawrence aka Tiantong!
 
 - 🔭 I’m currently working on Blind
 - 🌱 I’m currently interested in Web Application Development

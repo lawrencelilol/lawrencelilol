@@ -16,7 +16,7 @@
 </a>
 
 
-### 🔥 Streak stats
+### 🔥 Streak Stats
 <a href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lawrencelilol&date_format=M%20j%5B%2C%20Y%5D"  style="width:70%"/>
 </a>

@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Lawrence aka Tiantong!
 
-- 🔭 I’m currently working on Blind
+- 🔭 I’m currently working on GO projects
 - 🌱 I’m currently interested in Web Application Development
 - 💬 Ask me about NBA and College Basketball
 - 📫 How to reach me: tiantonl@andrew.cmu.edu

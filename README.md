@@ -4,7 +4,7 @@
 - 🌱 I’m currently interested in Web Application Development
 - 💬 Ask me about NBA and College Basketball
 - 📫 How to reach me: tiantonl@andrew.cmu.edu
-- 👨‍💻 Portfolio Website: [Lawrence](https://lawrencelilol.com/)
+- 👨‍💻 Portfolio Website: [Click Here!](https://lawrencelilol.com/)
 
 ### Welcome to my GitHub profile!
 
